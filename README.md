@@ -1,7 +1,7 @@
 # Mindle | A Wordle type word game
 
 ## Website
-go [to](https://mindle.vercel.app/)
+Go [to](https://mindle.vercel.app/)!
 
 ## Project Vision
 
