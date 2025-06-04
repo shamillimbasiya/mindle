@@ -1,10 +1,7 @@
 # Mindle | A Wordle type word game
 
-## Examination
-
-- **Final project screencast:** [mindle-screencast](https://drive.google.com/file/d/1yFdWvYwXUbZHPhL_L6M96b2BODrbx_6f/view?usp=sharing)
-- **Individual screencast Anton:** [antbe028-individual-screencast](https://drive.google.com/file/d/1ZSjJxN5to5lykqSVIkfrLaN78GaCMsHv/view?usp=sharing)
-- **Individual screencast Shamil:** [shali220-individual-screencast](https://drive.google.com/file/d/17R0k94AaVLE-hqRv8phFrVHuzFZcBvCN/view?usp=sharing)
+## Website
+go [to](https://mindle.vercel.app/)
 
 ## Project Vision
 
